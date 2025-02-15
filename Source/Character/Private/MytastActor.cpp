@@ -10,5 +10,5 @@ void AMytastActor::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Log, TEXT("Written by Team!!!."));
+	UE_LOG(LogTemp, Log, TEXT("Written by Team34563!."));
 }
