@@ -13,4 +13,5 @@ public:
 
 	AMytastActor();
 
+	virtual void BeginPlay() override;
 };
